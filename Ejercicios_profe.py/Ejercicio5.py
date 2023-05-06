@@ -1,0 +1,5 @@
+monto = float(input("cuanto vas a invertir?: "))
+interes = float(input("cuanto es el interes?: "))
+años= int(input("cuantos años vas a invertir?: "))
+capital = ((monto+interes)*años)
+print (f"Capital Obtenido es: ${capital}")

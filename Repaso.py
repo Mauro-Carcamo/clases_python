@@ -17,6 +17,7 @@ import random
 
 
 juador_a = random.randint(1,100)
+
 jugador_b = random.randint(1,100)
 
 comienza = random.randint(juador_a,jugador_b)
